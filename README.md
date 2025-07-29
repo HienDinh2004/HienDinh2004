@@ -10,7 +10,7 @@
 
 • **SQL:** MySQL, PostgreSQL, Google BigQuery  
 • **Power BI:** DAX, Power Query, Data Modeling   
-• **Tools:** Excel, Google Sheets, Git
+• **BI Tools:** Excel, Google Sheets, Git
 
 ## Projects for sharing
 
