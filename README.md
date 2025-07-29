@@ -1,18 +1,16 @@
 # Data Analyst
 
-A passionate Data Analyst who loves to explore data and create insightful stories through code and visualizations
+*A fresher Data Analyst who loves to explore data and create insightful stories through code and visualizations*
 
 📧 **Contact:** hiendinh140304@gmail.com
 
-🔗 **Number:** 0915789467
+📱 **Number:** 0915789467
 
 ## Technical Skills
 
 • **SQL:** MySQL, PostgreSQL, Google BigQuery  
-• **Power BI:** DAX, Power Query, Data Modeling  
-• **Python:** Pandas, NumPy, Matplotlib, Seaborn  
-• **Machine Learning:** Supervised Learning with Scikit-learn  
-• **Tools:** Excel, Tableau, Jupyter Notebook, Git
+• **Power BI:** DAX, Power Query, Data Modeling   
+• **Tools:** Excel, Google Sheets, Git
 
 ## Projects for sharing
 
@@ -41,14 +39,3 @@ Build machine learning models to predict customer churn using supervised learnin
 
 *🔧 Tech Stack: Python, Scikit-learn, Pandas*
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
-⭐️ From [YourUsername](https://github.com/YourUsername)
