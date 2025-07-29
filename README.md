@@ -2,8 +2,8 @@
 
 A passionate Data Analyst who loves to explore data and create insightful stories through code and visualizations
 
-📧 **Contact:** your-email@gmail.com  
-🔗 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/yourprofile)
+📧 **Contact:** hiendinh140304@gmail.com
+🔗 **Number:** 0915789467
 
 ## Technical Skills
 
